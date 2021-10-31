@@ -1,2 +1,2 @@
-# bookstore-items-api
+# bookstore-items
 Book Store Items API
